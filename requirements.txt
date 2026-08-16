@@ -1,0 +1,7 @@
+streamlit
+pandas==2.3.3
+numpy==2.3.5
+scikit-learn==1.7.2
+xgboost==3.2.0
+category-encoders==2.10.0
+altair
